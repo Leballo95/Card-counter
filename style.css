@@ -1,0 +1,12 @@
+#windows>*{
+    display:inline-block;
+    margin-right: 20px;
+   
+}
+button{
+padding: 10px;
+}
+
+h2{
+    font-family: Roboto;
+}
